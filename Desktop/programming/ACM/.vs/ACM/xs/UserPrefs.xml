@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{E0B698E4-9C94-4C98-B097-ED53211910A5}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ACM" expanded="True" selected="True">
+            <Node name="Tests" expanded="True">
+              <Node name="ACM.BLTests" expanded="True" />
+            </Node>
+            <Node name="ACM.BL" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ACM" expanded="True">
+            <Node name="Tests" expanded="True">
+              <Node name="ACM.BLTests" expanded="True">
+                <Node name="ACM.BLTest" expanded="True">
+                  <Node name="CustomerRepositoryTest" expanded="True">
+                    <Node name="RetrieveValid" selected="True" />
+                  </Node>
+                  <Node name="CustomerTest" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tests.ACM.BLTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
