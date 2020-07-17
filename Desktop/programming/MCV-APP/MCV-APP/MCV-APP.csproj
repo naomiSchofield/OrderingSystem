@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>MCV_APP</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Hello\" />
+    <Folder Include="Views\Engineering\" />
+    <Folder Include="Views\Customer\" />
+    <Folder Include="Views\FactoryStaff\" />
+    <Folder Include="Views\Goodbye\" />
+  </ItemGroup>
+</Project>
